@@ -43,11 +43,11 @@ Employee engagement web app prototype ที่รวม daily check-in, rewards
 
 สิ่งที่พิสูจน์: ฉันเข้าใจ organisation effectiveness, performance visibility และ accountability
 
-### 5. HR KPI Workshop Blueprint
+### 5. HR KPI Workshop Operating System
 
-โปรเจกต์ confidential ไม่แปะลิงก์ เป็นงาน workshop/blueprint สำหรับช่วยให้ทีมออกแบบ KPI, align เป้าหมาย, ชัดเจนเรื่อง ownership และ performance expectation
+โปรเจกต์ confidential ไม่แปะลิงก์ เป็น workshop app สำหรับช่วยให้ทีมเดินกระบวนการตั้งแต่ pain points, SMART KPI design, action plan, group answers, dashboard และ admin workflow
 
-สิ่งที่พิสูจน์: ฉันไม่ได้ทำแค่กิจกรรม แต่เข้าใจ organisation effectiveness และการเปลี่ยน performance conversation ให้เป็น workflow ที่ใช้ต่อได้
+สิ่งที่พิสูจน์: ฉันไม่ได้ทำแค่กิจกรรม แต่เข้าใจ organisation effectiveness และการเปลี่ยน workshop/performance conversation ให้เป็น operating system ที่ใช้ต่อได้
 
 ### 6. E-Memo Satisfaction Survey 2026
 

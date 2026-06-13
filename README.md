@@ -22,7 +22,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 | [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md) | HRMS-connected engagement app | Passport login, daily praise, mood check-in, rewards, badges, ranking, social feed, and admin configuration |
 | NPS PulseLift | Employee engagement + people insight | Engagement app, gamification, dashboards, AI-style insight summaries |
 | KPI Management Platform | Performance workflow | KPI creation, tracking, visibility, and manager follow-up |
-| HR KPI Workshop Blueprint | Organisation effectiveness + KPI workshop | Confidential workshop system for KPI design, alignment, and performance workflow |
+| HR KPI Workshop Operating System | Organisation effectiveness + KPI workshop | Confidential workshop app for pain points, SMART KPI design, action plans, group answers, dashboard, and admin workflow |
 | E-Memo Satisfaction Survey 2026 | Survey + analytics workflow | Employee survey, admin dashboard, data export, visual analytics |
 | MissionHub | Internal activity operating system | Missions, employee login, activity tracking, admin controls |
 | Personal AI Agent Stack | AI productivity system | AI operating manual, daily command center, prioritisation prompts |
@@ -36,7 +36,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 - [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md)
 - [NPS PulseLift](case-studies/nps-pulselift.md)
 - [KPI Management Platform](case-studies/kpi-management-platform.md)
-- [HR KPI Workshop Blueprint](case-studies/hr-kpi-workshop-blueprint.md)
+- [HR KPI Workshop Operating System](case-studies/hr-kpi-workshop-blueprint.md)
 - [E-Memo Satisfaction Survey 2026](case-studies/e-memo-satisfaction-survey.md)
 - [MissionHub](case-studies/missionhub.md)
 - [Personal AI Agent Stack](case-studies/personal-ai-agent-stack.md)
