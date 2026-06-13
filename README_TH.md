@@ -91,6 +91,24 @@ prototype เกม/ซิมูเลชัน 3D ด้วย Godot ให้�
 
 สิ่งที่พิสูจน์: ฉันสร้างระบบ operations สำหรับ event ที่มีหลายข้อมูลและต้องอัปเดตเร็วได้
 
+## ตัวอย่างภาพผลงาน
+
+### Songkran Splash Squad
+
+![Songkran Splash Squad gameplay dashboard](assets/songkran-splash-squad/dashboard-gameplay.png)
+
+### Happy Pulse HRMS Engagement Platform
+
+![Happy Pulse home dashboard](assets/happy-pulse/home-dashboard.png)
+
+### HR Operations Dashboard
+
+![HR operations dashboard redacted](assets/hr-operations-dashboard/project-budget-dashboard-redacted.png)
+
+### Energy Legacy: NPS Journey
+
+![Energy Legacy gameplay forest map](assets/energy-legacy-nps-journey/gameplay-forest-map.png)
+
 ## ประโยคที่ควรใช้พูดกับ recruiter
 
 I build lightweight internal systems that turn messy organisational work into practical workflows, dashboards, and AI-assisted tools that teams can actually use.
