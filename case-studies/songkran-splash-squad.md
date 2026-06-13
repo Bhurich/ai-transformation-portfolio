@@ -2,6 +2,8 @@
 
 Live project: https://nps-songkran-splash-squad.base44.app
 
+![Songkran Splash Squad gameplay dashboard](../assets/songkran-splash-squad/dashboard-gameplay.png)
+
 ## One-Line Pitch
 
 Online Songkran engagement game that combines virtual water splashing, blessing messages, bingo-style participation, and score collection into one interactive employee experience.
@@ -17,6 +19,11 @@ Internal seasonal events can lose energy when they are handled only through anno
 - Bingo-style engagement mechanic
 - Score collection and participation tracking concept
 - Online event experience that employees can join without complex setup
+- Player profile and status system
+- Ranking/leaderboard navigation
+- Admin area for event operation
+- Splash activity feed showing recent interactions
+- Energy mechanic to limit actions and make gameplay feel intentional
 
 ## My Role
 
@@ -28,8 +35,8 @@ Concept design, gamification flow, employee experience design, prototype directi
 - I understand gamification as an adoption tool, not only entertainment.
 - I can design lightweight experiences that make employees want to interact.
 - I can connect culture, engagement, participation, and tracking in one workflow.
+- I can use game mechanics such as score, energy, bingo, ranking, and social interaction to support real adoption.
 
 ## Relevance To AI Transformation
 
 This project shows how I redesign employee participation around a practical digital system. It supports the same transformation mindset: make the workflow simpler, more engaging, easier to adopt, and more measurable.
-

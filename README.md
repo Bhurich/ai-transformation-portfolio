@@ -18,7 +18,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 | Project | Theme | What It Shows |
 |---|---|---|
-| Songkran Splash Squad | Gamified engagement + event workflow | Online blessing, splash interaction, bingo, score tracking, and participation mechanics |
+| [Songkran Splash Squad](case-studies/songkran-splash-squad.md) | Gamified engagement + event workflow | Live Base44 app with online blessing, splash interaction, bingo, score tracking, admin, and participation mechanics |
 | NPS PulseLift | Employee engagement + people insight | Engagement app, gamification, dashboards, AI-style insight summaries |
 | KPI Management Platform | Performance workflow | KPI creation, tracking, visibility, and manager follow-up |
 | HR KPI Workshop Blueprint | Organisation effectiveness + KPI workshop | Confidential workshop system for KPI design, alignment, and performance workflow |
