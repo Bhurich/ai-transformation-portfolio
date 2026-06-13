@@ -18,8 +18,10 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 | Project | Theme | What It Shows |
 |---|---|---|
+| Songkran Splash Squad | Gamified engagement + event workflow | Online blessing, splash interaction, bingo, score tracking, and participation mechanics |
 | NPS PulseLift | Employee engagement + people insight | Engagement app, gamification, dashboards, AI-style insight summaries |
 | KPI Management Platform | Performance workflow | KPI creation, tracking, visibility, and manager follow-up |
+| HR KPI Workshop Blueprint | Organisation effectiveness + KPI workshop | Confidential workshop system for KPI design, alignment, and performance workflow |
 | E-Memo Satisfaction Survey 2026 | Survey + analytics workflow | Employee survey, admin dashboard, data export, visual analytics |
 | MissionHub | Internal activity operating system | Missions, employee login, activity tracking, admin controls |
 | Personal AI Agent Stack | AI productivity system | AI operating manual, daily command center, prioritisation prompts |
@@ -29,8 +31,10 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 ## Project Case Studies
 
+- [Songkran Splash Squad](case-studies/songkran-splash-squad.md)
 - [NPS PulseLift](case-studies/nps-pulselift.md)
 - [KPI Management Platform](case-studies/kpi-management-platform.md)
+- [HR KPI Workshop Blueprint](case-studies/hr-kpi-workshop-blueprint.md)
 - [E-Memo Satisfaction Survey 2026](case-studies/e-memo-satisfaction-survey.md)
 - [MissionHub](case-studies/missionhub.md)
 - [Personal AI Agent Stack](case-studies/personal-ai-agent-stack.md)
@@ -71,4 +75,3 @@ Each case study follows the same structure:
 - Product Operations
 - AI Productivity / Automation
 - Internal Tools / Business Operations
-

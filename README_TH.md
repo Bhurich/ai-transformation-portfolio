@@ -17,49 +17,63 @@
 
 ## ผลงานที่อยู่ใน Portfolio
 
-### 1. NPS PulseLift
+### 1. Songkran Splash Squad
+
+ลิงก์งานจริง: https://nps-songkran-splash-squad.base44.app
+
+เกมออนไลน์สำหรับกิจกรรมสงกรานต์ภายในองค์กร มีการสาดน้ำเสมือน ส่งคำอวยพร เกมบิงโก และระบบเก็บคะแนน
+
+สิ่งที่พิสูจน์: ฉันสามารถเปลี่ยนกิจกรรมองค์กรให้เป็น digital engagement system ที่สนุก ใช้ง่าย และวัด participation ได้
+
+### 2. NPS PulseLift
 
 Employee engagement web app prototype ที่รวม daily check-in, rewards, dashboard, leaderboard และ AI-style insight summary
 
 สิ่งที่พิสูจน์: ฉันสามารถเปลี่ยนปัญหาด้าน engagement ให้เป็นระบบที่วัดผลและใช้งานได้
 
-### 2. KPI Management Platform
+### 3. KPI Management Platform
 
 ระบบจัดการ KPI สำหรับการสร้าง ติดตาม มองเห็น progress และช่วย manager follow-up ได้ง่ายขึ้น
 
 สิ่งที่พิสูจน์: ฉันเข้าใจ organisation effectiveness, performance visibility และ accountability
 
-### 3. E-Memo Satisfaction Survey 2026
+### 4. HR KPI Workshop Blueprint
+
+โปรเจกต์ confidential ไม่แปะลิงก์ เป็นงาน workshop/blueprint สำหรับช่วยให้ทีมออกแบบ KPI, align เป้าหมาย, ชัดเจนเรื่อง ownership และ performance expectation
+
+สิ่งที่พิสูจน์: ฉันไม่ได้ทำแค่กิจกรรม แต่เข้าใจ organisation effectiveness และการเปลี่ยน performance conversation ให้เป็น workflow ที่ใช้ต่อได้
+
+### 5. E-Memo Satisfaction Survey 2026
 
 ระบบ survey + analytics dashboard สำหรับวัดความพึงพอใจของ workflow ภายใน มี charts, ranking, heatmap และ export
 
 สิ่งที่พิสูจน์: ฉันสร้าง feedback loop เพื่อปรับปรุง process ได้
 
-### 4. MissionHub
+### 6. MissionHub
 
 ระบบกิจกรรมภายในองค์กรที่มี employee login, missions, feed, admin controls และ completion tracking
 
 สิ่งที่พิสูจน์: ฉันเปลี่ยนกิจกรรมให้เป็น operating system ที่ติดตามผลได้
 
-### 5. Personal AI Agent Stack
+### 7. Personal AI Agent Stack
 
 ชุด AI productivity workflow สำหรับให้ AI ช่วยจัดลำดับความสำคัญ ตัดงานไม่คุ้ม และเปลี่ยนข้อมูลกระจัดกระจายเป็น action รายวัน
 
 สิ่งที่พิสูจน์: ฉันใช้ AI เป็นระบบช่วยทำงาน ไม่ใช่แค่ chatbot
 
-### 6. AI Simulation Designer Kit
+### 8. AI Simulation Designer Kit
 
 ชุด prompt/workflow สำหรับให้ AI จำลอง scenario, persona, risk, failure modes และ next experiment ก่อนตัดสินใจจริง
 
 สิ่งที่พิสูจน์: ฉันมีหัวคิดเชิงกลยุทธ์และใช้ AI ช่วยทดสอบไอเดียก่อนลงมือ
 
-### 7. NPS City Godot Learning Simulation
+### 9. NPS City Godot Learning Simulation
 
 prototype เกม/ซิมูเลชันด้วย Godot เพื่อช่วยให้พนักงานเรียนรู้เรื่องบริษัทแบบ interactive
 
 สิ่งที่พิสูจน์: ฉันใช้ gamification และ simulation เพื่อสร้าง learning experience ได้
 
-### 8. ROV Match Center
+### 10. ROV Match Center
 
 ระบบจัดการแข่งขัน มี schedule, scoreboard, team roster, live score, admin management และ export
 
@@ -72,4 +86,3 @@ I build lightweight internal systems that turn messy organisational work into pr
 ภาษาไทย:
 
 ฉันสร้างระบบภายในองค์กรที่ช่วยเปลี่ยนงานยุ่ง ๆ กระจัดกระจาย ให้กลายเป็น workflow, dashboard และเครื่องมือที่ทีมใช้ได้จริง โดยใช้ AI ช่วยคิดและสร้าง prototype ให้เร็วขึ้น
-
