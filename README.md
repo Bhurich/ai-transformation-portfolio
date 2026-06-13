@@ -64,6 +64,10 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 ![E-Memo Survey landing screen](assets/e-memo-survey/survey-landing.png)
 
+### NPS ROV Match Center
+
+![NPS ROV playoff bracket](assets/rov-match-center/playoff-bracket.jpg)
+
 ### Energy Legacy: NPS Journey
 
 ![Energy Legacy gameplay forest map](assets/energy-legacy-nps-journey/gameplay-forest-map.png)
