@@ -18,35 +18,24 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 | Project | Theme | What It Shows |
 |---|---|---|
+| [Energy Legacy: NPS Journey](case-studies/nps-city-godot.md) | Game-based learning simulation | Godot 3D exploration, energy-orb collection, quiz checkpoints, score tracking, and company learning |
 | [Songkran Splash Squad](case-studies/songkran-splash-squad.md) | Gamified engagement + event workflow | Live Base44 app with online blessing, splash interaction, bingo, score tracking, admin, and participation mechanics |
 | [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md) | HRMS-connected engagement app | Passport login, daily praise, mood check-in, rewards, badges, ranking, social feed, and admin configuration |
 | [HR Operations Dashboard & People Directory](case-studies/hr-operations-dashboard.md) | HR operations + people data platform | Project/budget dashboard, procurement, ROI, executive reports, people directory, filters, AI import, and export |
-| NPS PulseLift | Employee engagement + people insight | Engagement app, gamification, dashboards, AI-style insight summaries |
-| KPI Management Platform | Performance workflow | KPI creation, tracking, visibility, and manager follow-up |
-| HR KPI Workshop Operating System | Organisation effectiveness + KPI workshop | Confidential workshop app for pain points, SMART KPI design, action plans, group answers, dashboard, and admin workflow |
-| E-Memo Satisfaction Survey 2026 | Survey + analytics workflow | Approval-flow satisfaction survey, admin dashboard, data export, visual analytics, and Supabase-ready structure |
-| MissionHub | Internal activity operating system | Missions, employee login, activity tracking, admin controls |
-| Personal AI Agent Stack | AI productivity system | AI operating manual, daily command center, prioritisation prompts |
-| AI Simulation Designer Kit | Decision support | Scenario simulation, failure modes, persona simulation, next experiments |
-| Energy Legacy: NPS Journey | Game-based learning simulation | Godot 3D exploration, energy-orb collection, quiz checkpoints, score tracking, and company learning |
-| ROV Match Center | Event operations system | Tournament dashboard, live scoring, teams, schedules, admin flow |
-
-## Project Case Studies
-
-- [Songkran Splash Squad](case-studies/songkran-splash-squad.md)
-- [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md)
-- [HR Operations Dashboard & People Directory](case-studies/hr-operations-dashboard.md)
-- [NPS PulseLift](case-studies/nps-pulselift.md)
-- [KPI Management Platform](case-studies/kpi-management-platform.md)
-- [HR KPI Workshop Operating System](case-studies/hr-kpi-workshop-blueprint.md)
-- [E-Memo Satisfaction Survey 2026](case-studies/e-memo-satisfaction-survey.md)
-- [MissionHub](case-studies/missionhub.md)
-- [Personal AI Agent Stack](case-studies/personal-ai-agent-stack.md)
-- [AI Simulation Designer Kit](case-studies/ai-simulation-designer-kit.md)
-- [Energy Legacy: NPS Journey](case-studies/nps-city-godot.md)
-- [ROV Match Center](case-studies/rov-match-center.md)
+| [E-Memo Satisfaction Survey 2026](case-studies/e-memo-satisfaction-survey.md) | Survey + analytics workflow | Approval-flow satisfaction survey, admin dashboard, data export, visual analytics, and Supabase-ready structure |
+| [ROV Match Center](case-studies/rov-match-center.md) | Event operations system | Playoff bracket, live match page, tournament dashboard, live scoring, teams, schedules, and admin flow |
+| [HR KPI Workshop Operating System](case-studies/hr-kpi-workshop-blueprint.md) | Organisation effectiveness + KPI workshop | Confidential workshop app for pain points, SMART KPI design, action plans, group answers, dashboard, and admin workflow |
+| [NPS PulseLift](case-studies/nps-pulselift.md) | Employee engagement + people insight | Engagement app, gamification, dashboards, AI-style insight summaries |
+| [KPI Management Platform](case-studies/kpi-management-platform.md) | Performance workflow | KPI creation, tracking, visibility, and manager follow-up |
+| [MissionHub](case-studies/missionhub.md) | Internal activity operating system | Missions, employee login, activity tracking, admin controls |
+| [Personal AI Agent Stack](case-studies/personal-ai-agent-stack.md) | AI productivity system | AI operating manual, daily command center, prioritisation prompts |
+| [AI Simulation Designer Kit](case-studies/ai-simulation-designer-kit.md) | Decision support | Scenario simulation, failure modes, persona simulation, next experiments |
 
 ## Visual Portfolio Highlights
+
+### Energy Legacy: NPS Journey
+
+![Energy Legacy gameplay forest map](assets/energy-legacy-nps-journey/gameplay-forest-map.png)
 
 ### Songkran Splash Squad
 
@@ -68,9 +57,20 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 ![NPS ROV playoff bracket](assets/rov-match-center/playoff-bracket.jpg)
 
-### Energy Legacy: NPS Journey
+## Project Case Studies
 
-![Energy Legacy gameplay forest map](assets/energy-legacy-nps-journey/gameplay-forest-map.png)
+- [Energy Legacy: NPS Journey](case-studies/nps-city-godot.md)
+- [Songkran Splash Squad](case-studies/songkran-splash-squad.md)
+- [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md)
+- [HR Operations Dashboard & People Directory](case-studies/hr-operations-dashboard.md)
+- [E-Memo Satisfaction Survey 2026](case-studies/e-memo-satisfaction-survey.md)
+- [ROV Match Center](case-studies/rov-match-center.md)
+- [HR KPI Workshop Operating System](case-studies/hr-kpi-workshop-blueprint.md)
+- [NPS PulseLift](case-studies/nps-pulselift.md)
+- [KPI Management Platform](case-studies/kpi-management-platform.md)
+- [MissionHub](case-studies/missionhub.md)
+- [Personal AI Agent Stack](case-studies/personal-ai-agent-stack.md)
+- [AI Simulation Designer Kit](case-studies/ai-simulation-designer-kit.md)
 
 ## Skills Demonstrated
 
