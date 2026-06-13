@@ -25,55 +25,61 @@
 
 สิ่งที่พิสูจน์: ฉันสามารถเปลี่ยนกิจกรรมองค์กรให้เป็น digital engagement system ที่สนุก ใช้ง่าย และวัด participation ได้
 
-### 2. NPS PulseLift
+### 2. Happy Pulse HRMS Engagement Platform
+
+Application engagement ที่ออกแบบให้เชื่อม Account HRMS / Passport มี login, daily praise, mood check-in, rewards, badges, rank, social feed, learning content และ admin configuration
+
+สิ่งที่พิสูจน์: ฉันออกแบบ employee-facing internal product ที่ดูเป็นระบบจริง มีทั้งฝั่งพนักงานและฝั่ง admin ไม่ใช่แค่หน้าเว็บกิจกรรม
+
+### 3. NPS PulseLift
 
 Employee engagement web app prototype ที่รวม daily check-in, rewards, dashboard, leaderboard และ AI-style insight summary
 
 สิ่งที่พิสูจน์: ฉันสามารถเปลี่ยนปัญหาด้าน engagement ให้เป็นระบบที่วัดผลและใช้งานได้
 
-### 3. KPI Management Platform
+### 4. KPI Management Platform
 
 ระบบจัดการ KPI สำหรับการสร้าง ติดตาม มองเห็น progress และช่วย manager follow-up ได้ง่ายขึ้น
 
 สิ่งที่พิสูจน์: ฉันเข้าใจ organisation effectiveness, performance visibility และ accountability
 
-### 4. HR KPI Workshop Blueprint
+### 5. HR KPI Workshop Blueprint
 
 โปรเจกต์ confidential ไม่แปะลิงก์ เป็นงาน workshop/blueprint สำหรับช่วยให้ทีมออกแบบ KPI, align เป้าหมาย, ชัดเจนเรื่อง ownership และ performance expectation
 
 สิ่งที่พิสูจน์: ฉันไม่ได้ทำแค่กิจกรรม แต่เข้าใจ organisation effectiveness และการเปลี่ยน performance conversation ให้เป็น workflow ที่ใช้ต่อได้
 
-### 5. E-Memo Satisfaction Survey 2026
+### 6. E-Memo Satisfaction Survey 2026
 
 ระบบ survey + analytics dashboard สำหรับวัดความพึงพอใจของ workflow ภายใน มี charts, ranking, heatmap และ export
 
 สิ่งที่พิสูจน์: ฉันสร้าง feedback loop เพื่อปรับปรุง process ได้
 
-### 6. MissionHub
+### 7. MissionHub
 
 ระบบกิจกรรมภายในองค์กรที่มี employee login, missions, feed, admin controls และ completion tracking
 
 สิ่งที่พิสูจน์: ฉันเปลี่ยนกิจกรรมให้เป็น operating system ที่ติดตามผลได้
 
-### 7. Personal AI Agent Stack
+### 8. Personal AI Agent Stack
 
 ชุด AI productivity workflow สำหรับให้ AI ช่วยจัดลำดับความสำคัญ ตัดงานไม่คุ้ม และเปลี่ยนข้อมูลกระจัดกระจายเป็น action รายวัน
 
 สิ่งที่พิสูจน์: ฉันใช้ AI เป็นระบบช่วยทำงาน ไม่ใช่แค่ chatbot
 
-### 8. AI Simulation Designer Kit
+### 9. AI Simulation Designer Kit
 
 ชุด prompt/workflow สำหรับให้ AI จำลอง scenario, persona, risk, failure modes และ next experiment ก่อนตัดสินใจจริง
 
 สิ่งที่พิสูจน์: ฉันมีหัวคิดเชิงกลยุทธ์และใช้ AI ช่วยทดสอบไอเดียก่อนลงมือ
 
-### 9. NPS City Godot Learning Simulation
+### 10. NPS City Godot Learning Simulation
 
 prototype เกม/ซิมูเลชันด้วย Godot เพื่อช่วยให้พนักงานเรียนรู้เรื่องบริษัทแบบ interactive
 
 สิ่งที่พิสูจน์: ฉันใช้ gamification และ simulation เพื่อสร้าง learning experience ได้
 
-### 10. ROV Match Center
+### 11. ROV Match Center
 
 ระบบจัดการแข่งขัน มี schedule, scoreboard, team roster, live score, admin management และ export
 

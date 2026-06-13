@@ -19,6 +19,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 | Project | Theme | What It Shows |
 |---|---|---|
 | [Songkran Splash Squad](case-studies/songkran-splash-squad.md) | Gamified engagement + event workflow | Live Base44 app with online blessing, splash interaction, bingo, score tracking, admin, and participation mechanics |
+| [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md) | HRMS-connected engagement app | Passport login, daily praise, mood check-in, rewards, badges, ranking, social feed, and admin configuration |
 | NPS PulseLift | Employee engagement + people insight | Engagement app, gamification, dashboards, AI-style insight summaries |
 | KPI Management Platform | Performance workflow | KPI creation, tracking, visibility, and manager follow-up |
 | HR KPI Workshop Blueprint | Organisation effectiveness + KPI workshop | Confidential workshop system for KPI design, alignment, and performance workflow |
@@ -32,6 +33,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 ## Project Case Studies
 
 - [Songkran Splash Squad](case-studies/songkran-splash-squad.md)
+- [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md)
 - [NPS PulseLift](case-studies/nps-pulselift.md)
 - [KPI Management Platform](case-studies/kpi-management-platform.md)
 - [HR KPI Workshop Blueprint](case-studies/hr-kpi-workshop-blueprint.md)
