@@ -27,7 +27,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 | MissionHub | Internal activity operating system | Missions, employee login, activity tracking, admin controls |
 | Personal AI Agent Stack | AI productivity system | AI operating manual, daily command center, prioritisation prompts |
 | AI Simulation Designer Kit | Decision support | Scenario simulation, failure modes, persona simulation, next experiments |
-| NPS City Godot Learning Simulation | Gamified learning | 3D company learning prototype with interactive mechanics |
+| Energy Legacy: NPS Journey | Game-based learning simulation | Godot 3D exploration, energy-orb collection, quiz checkpoints, score tracking, and company learning |
 | ROV Match Center | Event operations system | Tournament dashboard, live scoring, teams, schedules, admin flow |
 
 ## Project Case Studies
@@ -41,7 +41,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 - [MissionHub](case-studies/missionhub.md)
 - [Personal AI Agent Stack](case-studies/personal-ai-agent-stack.md)
 - [AI Simulation Designer Kit](case-studies/ai-simulation-designer-kit.md)
-- [NPS City Godot Learning Simulation](case-studies/nps-city-godot.md)
+- [Energy Legacy: NPS Journey](case-studies/nps-city-godot.md)
 - [ROV Match Center](case-studies/rov-match-center.md)
 
 ## Skills Demonstrated

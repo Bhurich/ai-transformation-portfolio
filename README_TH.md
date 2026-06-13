@@ -73,11 +73,11 @@ Employee engagement web app prototype ที่รวม daily check-in, rewards
 
 สิ่งที่พิสูจน์: ฉันมีหัวคิดเชิงกลยุทธ์และใช้ AI ช่วยทดสอบไอเดียก่อนลงมือ
 
-### 10. NPS City Godot Learning Simulation
+### 10. Energy Legacy: NPS Journey
 
-prototype เกม/ซิมูเลชันด้วย Godot เพื่อช่วยให้พนักงานเรียนรู้เรื่องบริษัทแบบ interactive
+prototype เกม/ซิมูเลชัน 3D ด้วย Godot ให้พนักงานเดินสำรวจแผนที่ เก็บลูกแก้วพลังงาน ตอบคำถาม และเรียนรู้เรื่องบริษัทผ่าน interactive mission
 
-สิ่งที่พิสูจน์: ฉันใช้ gamification และ simulation เพื่อสร้าง learning experience ได้
+สิ่งที่พิสูจน์: ฉันใช้ game engine, gamification และ simulation เพื่อสร้าง learning experience ที่จับต้องได้
 
 ### 11. ROV Match Center
 
