@@ -24,7 +24,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 | NPS PulseLift | Employee engagement + people insight | Engagement app, gamification, dashboards, AI-style insight summaries |
 | KPI Management Platform | Performance workflow | KPI creation, tracking, visibility, and manager follow-up |
 | HR KPI Workshop Operating System | Organisation effectiveness + KPI workshop | Confidential workshop app for pain points, SMART KPI design, action plans, group answers, dashboard, and admin workflow |
-| E-Memo Satisfaction Survey 2026 | Survey + analytics workflow | Employee survey, admin dashboard, data export, visual analytics |
+| E-Memo Satisfaction Survey 2026 | Survey + analytics workflow | Approval-flow satisfaction survey, admin dashboard, data export, visual analytics, and Supabase-ready structure |
 | MissionHub | Internal activity operating system | Missions, employee login, activity tracking, admin controls |
 | Personal AI Agent Stack | AI productivity system | AI operating manual, daily command center, prioritisation prompts |
 | AI Simulation Designer Kit | Decision support | Scenario simulation, failure modes, persona simulation, next experiments |
@@ -59,6 +59,10 @@ This portfolio collects selected projects that show how I turn ideas into usable
 ### HR Operations Dashboard
 
 ![HR operations dashboard redacted](assets/hr-operations-dashboard/project-budget-dashboard-redacted.png)
+
+### E-Memo Approval Flow Satisfaction Survey
+
+![E-Memo Survey landing screen](assets/e-memo-survey/survey-landing.png)
 
 ### Energy Legacy: NPS Journey
 

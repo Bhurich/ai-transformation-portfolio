@@ -105,6 +105,10 @@ prototype เกม/ซิมูเลชัน 3D ด้วย Godot ให้�
 
 ![HR operations dashboard redacted](assets/hr-operations-dashboard/project-budget-dashboard-redacted.png)
 
+### E-Memo Approval Flow Satisfaction Survey
+
+![E-Memo Survey landing screen](assets/e-memo-survey/survey-landing.png)
+
 ### Energy Legacy: NPS Journey
 
 ![Energy Legacy gameplay forest map](assets/energy-legacy-nps-journey/gameplay-forest-map.png)
