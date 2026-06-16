@@ -2,6 +2,8 @@
 
 I build practical internal systems that help organisations work faster, communicate better, and reduce repetitive manual work.
 
+[▶ เปิดหน้าผลงานจาก AI สำหรับผู้เรียน](ai-work-showcase-th.md)
+
 My background is in HR Strategy & Project work, but my strongest direction is not traditional HR operations. I focus on AI adoption, workflow redesign, productivity systems, gamification, dashboards, and lightweight internal tools.
 
 This portfolio collects selected projects that show how I turn ideas into usable systems.
