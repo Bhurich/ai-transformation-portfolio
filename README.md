@@ -34,6 +34,8 @@ This portfolio collects selected projects that show how I turn ideas into usable
 | [Personal AI Agent Stack](case-studies/personal-ai-agent-stack.md) | AI productivity system | AI operating manual, daily command center, prioritisation prompts |
 | [AI Simulation Designer Kit](case-studies/ai-simulation-designer-kit.md) | Decision support | Scenario simulation, failure modes, persona simulation, next experiments |
 
+Play the game: [**nps-power-run-2026.netlify.app**](https://nps-power-run-2026.netlify.app/)
+
 ## Visual Portfolio Highlights
 
 ### NPS Power Run

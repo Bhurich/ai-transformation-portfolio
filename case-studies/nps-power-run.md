@@ -1,6 +1,6 @@
 # NPS Power Run
 
-Live project: https://nps-power-run-2026.netlify.app/
+Play the live game: [**nps-power-run-2026.netlify.app**](https://nps-power-run-2026.netlify.app/)
 
 ![NPS Power Run cover](../assets/nps-power-run/cover.png)
 
@@ -46,4 +46,3 @@ Project concept, learning and gameplay design, Godot development, level flow, qu
 ## Relevance To HR Strategy & Project Work
 
 NPS Power Run demonstrates end-to-end project ownership: translating an engagement objective into a creative concept, defining the player journey and content, coordinating campaign requirements, building the digital experience, preparing deployment, and supporting participation with measurable run data.
-
