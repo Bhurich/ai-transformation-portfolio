@@ -20,6 +20,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 | Project | Theme | What It Shows |
 |---|---|---|
+| [NPS Power Run](case-studies/nps-power-run.md) | Gamified sustainability learning | Live Godot web game with three stages, knowledge questions, collectibles, hazards, final boss, and score tracking |
 | [Energy Legacy: NPS Journey](case-studies/nps-city-godot.md) | Game-based learning simulation | Godot 3D exploration, energy-orb collection, quiz checkpoints, score tracking, and company learning |
 | [Songkran Splash Squad](case-studies/songkran-splash-squad.md) | Gamified engagement + event workflow | Live Base44 app with online blessing, splash interaction, bingo, score tracking, admin, and participation mechanics |
 | [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md) | HRMS-connected engagement app | Passport login, daily praise, mood check-in, rewards, badges, ranking, social feed, and admin configuration |
@@ -34,6 +35,10 @@ This portfolio collects selected projects that show how I turn ideas into usable
 | [AI Simulation Designer Kit](case-studies/ai-simulation-designer-kit.md) | Decision support | Scenario simulation, failure modes, persona simulation, next experiments |
 
 ## Visual Portfolio Highlights
+
+### NPS Power Run
+
+![NPS Power Run cover](assets/nps-power-run/cover.png)
 
 ### Energy Legacy: NPS Journey
 
@@ -61,6 +66,7 @@ This portfolio collects selected projects that show how I turn ideas into usable
 
 ## Project Case Studies
 
+- [NPS Power Run](case-studies/nps-power-run.md)
 - [Energy Legacy: NPS Journey](case-studies/nps-city-godot.md)
 - [Songkran Splash Squad](case-studies/songkran-splash-squad.md)
 - [Happy Pulse HRMS Engagement Platform](case-studies/happy-pulse-hrms-engagement.md)

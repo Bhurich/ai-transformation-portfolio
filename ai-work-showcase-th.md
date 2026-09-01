@@ -12,7 +12,15 @@
 
 ## ตัวอย่างผลงาน
 
-### 1. Energy Legacy: NPS Journey
+### 1. NPS Power Run
+
+เกมแพลตฟอร์ม 2D บนเว็บที่ใช้การวิ่ง เก็บเหรียญ ตอบคำถาม ผ่านอุปสรรค และสู้บอส เพื่อเปลี่ยนความรู้เรื่องพลังงานสะอาดให้เป็นประสบการณ์ที่เล่นได้จริง
+
+![NPS Power Run cover](assets/nps-power-run/cover.png)
+
+[เล่นเกมจริง](https://nps-power-run-2026.netlify.app/) | [อ่านรายละเอียด](case-studies/nps-power-run.md)
+
+### 2. Energy Legacy: NPS Journey
 
 เกม/ซิมูเลชัน 3D สำหรับการเรียนรู้เรื่ององค์กร ผู้เล่นเดินสำรวจแผนที่ เก็บพลังงาน และตอบคำถามระหว่างทาง
 
@@ -20,7 +28,7 @@
 
 [อ่านรายละเอียด](case-studies/nps-city-godot.md)
 
-### 2. Songkran Splash Squad
+### 3. Songkran Splash Squad
 
 เว็บกิจกรรมสงกรานต์ที่เปลี่ยนกิจกรรมภายในองค์กรให้เป็นเกมออนไลน์ มีการสาดน้ำเสมือน คำอวยพร บิงโก คะแนน และ dashboard
 
@@ -28,7 +36,7 @@
 
 [อ่านรายละเอียด](case-studies/songkran-splash-squad.md)
 
-### 3. Happy Pulse HRMS Engagement Platform
+### 4. Happy Pulse HRMS Engagement Platform
 
 ต้นแบบ engagement app สำหรับพนักงาน มี mood check-in, praise, rewards, badges, ranking และ learning content
 
@@ -36,7 +44,7 @@
 
 [อ่านรายละเอียด](case-studies/happy-pulse-hrms-engagement.md)
 
-### 4. HR Operations Dashboard
+### 5. HR Operations Dashboard
 
 ระบบ dashboard สำหรับช่วยดู project, budget, vendor, milestone, ROI และ employee directory ในที่เดียว
 
@@ -44,7 +52,7 @@
 
 [อ่านรายละเอียด](case-studies/hr-operations-dashboard.md)
 
-### 5. E-Memo Satisfaction Survey
+### 6. E-Memo Satisfaction Survey
 
 ระบบ survey และ analytics dashboard สำหรับเก็บ feedback จากผู้ใช้งาน แล้วแปลงเป็นกราฟและ insight ที่อ่านง่าย
 
@@ -52,7 +60,7 @@
 
 [อ่านรายละเอียด](case-studies/e-memo-satisfaction-survey.md)
 
-### 6. NPS ROV Match Center
+### 7. NPS ROV Match Center
 
 ระบบจัดการแข่งขัน มีตารางแข่ง bracket หน้า live match และการอัปเดตข้อมูลสำหรับ event operations
 
