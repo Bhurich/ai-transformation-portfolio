@@ -10,7 +10,7 @@ Browser-based 2D learning game built in Godot that turns clean-energy and compan
 
 ## Gameplay Video
 
-[**▶ Watch the real NPS Power Run gameplay video (MP4)**](../assets/nps-power-run/nps-power-run-gameplay.mp4?raw=1)
+[**▶ Watch the real NPS Power Run gameplay video (MP4)**](../assets/nps-power-run/nps-power-run-gameplay.mp4)
 
 This 8.7-second video shows the game in motion using the actual playable build.
 
