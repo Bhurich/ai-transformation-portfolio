@@ -8,11 +8,19 @@ Play the live game: [**nps-power-run-2026.netlify.app**](https://nps-power-run-2
 
 Browser-based 2D learning game built in Godot that turns clean-energy and company knowledge into a three-stage platform adventure with quizzes, collectibles, hazards, and a final pollution boss.
 
-## Gameplay Video
+## Gameplay Screenshots
 
-[**▶ Watch the real NPS Power Run gameplay video (MP4)**](../assets/nps-power-run/nps-power-run-gameplay.mp4)
+### Stage 1 - Platforming and Hazards
 
-This 8.7-second video shows the game in motion using the actual playable build.
+![NPS Power Run Stage 1 gameplay](../assets/nps-power-run/gameplay-stage-1.png)
+
+### Stage 2 - Sunny and Question Blocks
+
+![NPS Power Run Stage 2 gameplay with Sunny and a question block](../assets/nps-power-run/gameplay-stage-2.png)
+
+### Final Stage - Mega Smoke Boss
+
+![NPS Power Run final Mega Smoke boss battle](../assets/nps-power-run/gameplay-final-boss.png)
 
 ## Business Problem
 
