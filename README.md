@@ -44,6 +44,8 @@ Play the game: [**nps-power-run-2026.netlify.app**](https://nps-power-run-2026.n
 
 ### Energy Legacy: NPS Journey
 
+[**Download NPS Journey for Windows / macOS on itch.io**](https://bhurich.itch.io/nps-journey-energy-legacy)
+
 ![Energy Legacy gameplay forest map](assets/energy-legacy-nps-journey/gameplay-forest-map.png)
 
 ### Songkran Splash Squad
