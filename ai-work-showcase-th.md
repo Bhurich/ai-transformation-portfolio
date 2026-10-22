@@ -26,7 +26,7 @@
 
 ![Energy Legacy gameplay forest map](assets/energy-legacy-nps-journey/gameplay-forest-map.png)
 
-[อ่านรายละเอียด](case-studies/nps-city-godot.md)
+[ดาวน์โหลดเกมสำหรับ Windows / macOS](https://bhurich.itch.io/nps-journey-energy-legacy) | [อ่านรายละเอียด](case-studies/nps-city-godot.md)
 
 ### 3. Songkran Splash Squad
 
