@@ -4,6 +4,12 @@
 
 3D game-based learning simulation built in Godot to help employees explore company knowledge through movement, energy-orb collection, quiz checkpoints, and interactive discovery.
 
+## Download & Play
+
+[**Download NPS Journey on itch.io — Windows / macOS**](https://bhurich.itch.io/nps-journey-energy-legacy)
+
+Open the itch.io page, scroll to **Download**, and choose `NPS_Journey_Windows.zip` for Windows or `NPS_Journey_Mac.zip` for macOS.
+
 ## Screenshots
 
 ### App / Game Identity
